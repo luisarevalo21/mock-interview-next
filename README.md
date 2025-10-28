@@ -58,3 +58,14 @@ npm start
 - Loading/error states for fetch
 - Persist cart in localStorage
 - Price formatting with Intl APIs
+
+## Additional Challenges
+
+This repository also includes a solution for the "Disemvowel Trolls" algorithm problem.
+
+### Vowel Remover (`vowelRemover.js`)
+
+**Problem:** Trolls are attacking your comment section! A common way to deal with this is to remove all vowels from their comments. The task is to write a function that takes a string and returns a new string with all vowels removed.
+
+- **Example:** The string `"This website is for losers LOL!"` would become `"Ths wbst s fr lsrs LL!"`.
+- **Note:** For this problem, 'y' is not considered a vowel.
